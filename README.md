@@ -1,6 +1,6 @@
 # Snake Python Game
 
-Recreating the classic Snake game using only python
+Recreated the classic game snake using python and the turtle library
 
 ## Usage
 
